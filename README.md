@@ -1,5 +1,6 @@
 # Style-Transfer-via-Multi-Scale-Feature-CNN
 Applying a Style Transfer Objective by solely using a CNN model (without any Discriminant or Adversarial network)!  
+Astonishing mehod and results!
   
 Style transfer is a computer vision technique which takes two images – a content image and a style reference image, and blends them together so that the resulting output image retains the core elements of the content image, but yet appears to be as "painted" in the style of the style reference image.  
   
@@ -32,6 +33,7 @@ In this folder you can find the following,
 4. A detailed explanation on how to run the code  
 5. Content and Style images used together with its results  
   
+The results speek for themselves, and they are truly fascinating!  
   
   
 That's it.  
