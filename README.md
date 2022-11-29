@@ -13,7 +13,7 @@ I believe if the style transfer task were thought of as a combination of DC (or 
 And an AC distribution part – as for a variant (variance) component which potentially holds Semantic information, object shape, and Semantic Texture of the style image (could also be thought of as for the high frequency part in the fourier domain – as for a High Pass FIR filter).  
 Then, the downstream task of such would be feasible!  
   
-There has been research papers on the matter (Pioneer: LA Gatys et al. 2016). And here's another.  
+There has been research papers on the matter (Pioneer: LA Gatys et al. 2016). And here's another (based upon).  
   
 A few notes,  
 * The algorithm, architecture, and inner transformations works amazingly!  
